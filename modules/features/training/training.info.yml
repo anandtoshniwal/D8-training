@@ -6,7 +6,9 @@ dependencies:
   - block_content
   - datetime
   - field
+  - file
   - image
   - options
   - user
+  - views
 version: 8.x-1.0
