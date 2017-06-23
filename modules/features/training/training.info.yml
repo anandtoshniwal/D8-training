@@ -2,6 +2,8 @@ name: Training
 type: module
 core: 8.x
 dependencies:
+  - block
+  - block_content
   - datetime
   - field
   - image
