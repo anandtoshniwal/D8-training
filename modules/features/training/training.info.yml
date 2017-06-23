@@ -1,0 +1,10 @@
+name: Training
+type: module
+core: 8.x
+dependencies:
+  - datetime
+  - field
+  - image
+  - options
+  - user
+version: 8.x-1.0
